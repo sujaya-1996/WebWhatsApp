@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest">
+        <methods>
+          <include name="Test_CashOnDelivery_Flow"/>
+          <include name="beforeClass"/>
+          <include name="Test_SetupVariables"/>
+          <include name="Test_CancelOrder_Flow"/>
+        </methods>
+      </class> <!-- com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

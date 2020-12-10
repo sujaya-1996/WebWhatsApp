@@ -1,0 +1,1 @@
+{"uuid":"8620af15-7227-4528-ad61-ff388193974a","name":"Default test","start":1604482765369,"stop":1604483124204,"children":["7c0a3ec7-e01d-41c3-8a29-d99089b224ce","604d23fd-7018-4cb6-be2c-171b7b030f86","dc09efa1-bfba-4553-b987-f750b1d847e9"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","start":1604482765397,"stop":1604482775175}]}

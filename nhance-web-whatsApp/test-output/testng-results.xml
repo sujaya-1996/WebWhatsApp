@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="423990" started-at="2020-11-09T06:41:46Z" finished-at="2020-11-09T06:48:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="423990" started-at="2020-11-09T06:41:46Z" finished-at="2020-11-09T06:48:50Z">
+      <class name="com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="beforeClass" is-config="true" duration-ms="12009" started-at="2020-11-09T06:41:46Z" finished-at="2020-11-09T06:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test_SetupVariables()[pri:0, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_SetupVariables" is-config="true" duration-ms="9832" started-at="2020-11-09T06:41:58Z" finished-at="2020-11-09T06:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SetupVariables -->
+        <test-method status="PASS" signature="Test_placeOrder_PositiveFlow_For_OnlinePayment()[pri:1, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_placeOrder_PositiveFlow_For_OnlinePayment" duration-ms="249852" started-at="2020-11-09T06:42:08Z" description="To do the placeOrder_PositiveFlow_For_OnlinePayment" finished-at="2020-11-09T06:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_placeOrder_PositiveFlow_For_OnlinePayment -->
+        <test-method status="PASS" signature="Test_SetupVariables()[pri:0, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_SetupVariables" is-config="true" duration-ms="1331" started-at="2020-11-09T06:46:18Z" finished-at="2020-11-09T06:46:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SetupVariables -->
+        <test-method status="PASS" signature="Test_orderStatus_Flow_After_Doing_OnlinePayment()[pri:2, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_orderStatus_Flow_After_Doing_OnlinePayment" duration-ms="27772" started-at="2020-11-09T06:46:19Z" description="To do the orderStatus_Flow_After_Doing_OnlinePayment" finished-at="2020-11-09T06:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_orderStatus_Flow_After_Doing_OnlinePayment -->
+        <test-method status="PASS" signature="Test_SetupVariables()[pri:0, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_SetupVariables" is-config="true" duration-ms="787" started-at="2020-11-09T06:46:47Z" finished-at="2020-11-09T06:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SetupVariables -->
+        <test-method status="PASS" signature="Test_CashOnDelivery_Flow()[pri:3, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_CashOnDelivery_Flow" duration-ms="96302" started-at="2020-11-09T06:46:48Z" description="To do the CashOnDelivery_Flow" finished-at="2020-11-09T06:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_CashOnDelivery_Flow -->
+        <test-method status="PASS" signature="Test_SetupVariables()[pri:0, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_SetupVariables" is-config="true" duration-ms="765" started-at="2020-11-09T06:48:24Z" finished-at="2020-11-09T06:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SetupVariables -->
+        <test-method status="PASS" signature="Test_orderStatusFlow_After_COD()[pri:4, instance:com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest@5fa47fea]" name="Test_orderStatusFlow_After_COD" duration-ms="24769" started-at="2020-11-09T06:48:25Z" description="To do the orderStatusFlow_After_COD" finished-at="2020-11-09T06:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_orderStatusFlow_After_COD -->
+      </class> <!-- com.nhance.web.whatsApp.automation.userTestClasses.Buy_FeatureTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
